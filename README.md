@@ -57,10 +57,9 @@ const tamas = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xa1w&show_icons=true&hide_border=true&theme=tokyonight&icon_color=8B5CF6&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xa1w&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs" />
+<img height="180" src="https://streak-stats.demolab.com?user=xa1w&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xa1w&theme=tokyo-night&hide_border=true&area=true" alt="activity" />
+<img src="https://ghchart.rshah.org/8B5CF6/xa1w" alt="contributions" width="100%" />
 
 </div>
 
