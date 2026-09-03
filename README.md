@@ -22,10 +22,11 @@ const tamas = {
 };
 ```
 
-- 🛠️ I build things for the web — mostly front-end, mostly at 2am
+- 🛠️ I build things for the web — mostly front-end. digital design is kinda my thing
 - 📷 Photography is the other half of my brain
-- 🌐 My site **[landesz.dev](https://landesz.dev)** is still in development (it'll be worth the wait)
-- ⚡ Fun fact: I'd rather rewrite the whole layout than fix one margin
+- 🌐 My site **[landesz.dev](https://landesz.dev)** is still in development (check back soon!)
+- 🏗️ Starting my own web studio — **[atomifys.com](https://atomifys.com)** (major WIP)
+- ⚡ Fun fact: I've delivered a **[TEDx talk on predatory algorithms](https://www.youtube.com/watch?v=Maygx-Y7VcA)** 🎤
 
 ---
 
@@ -71,10 +72,12 @@ const tamas = {
 
 <a href="https://landesz.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:tmslandesz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://atomifys.com"><img src="https://img.shields.io/badge/Atomifys-111111?style=for-the-badge&logo=atom&logoColor=8B5CF6" /></a>
+<a href="https://www.youtube.com/watch?v=Maygx-Y7VcA"><img src="https://img.shields.io/badge/TEDx%20Talk-FF0000?style=for-the-badge&logo=ted&logoColor=white" /></a>
+<a href="mailto:tom@landesz.dev"><img src="https://img.shields.io/badge/tom@landesz.dev-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 
 </div>
 
 <div align="center">
-<sub>built at 2am · powered by ☕ and questionable decisions</sub>
+<sub>📬 <b>open to inquiries</b> — <a href="mailto:tom@landesz.dev">tom@landesz.dev</a></sub>
 </div>
