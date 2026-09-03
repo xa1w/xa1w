@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Tamas+%F0%9F%91%8B;I+vibe+code+cool+stuff;and+I+take+photos." alt="Tamas Landesz" />
 
-**🇭🇺 Hungarian &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇷🇺 Russian &nbsp;·&nbsp; <!--AGE-->16<!--/AGE--> y/o**
+**🇷🇺 Russian &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇭🇺 Hungarian &nbsp;·&nbsp; <!--AGE-->16<!--/AGE--> y/o**
 
 <a href="https://landesz.dev"><img src="https://img.shields.io/badge/landesz.dev-in%20development-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="website" /></a>
 <img src="https://komarev.com/ghpvc/?username=xa1w&style=for-the-badge&color=8B5CF6&label=VISITORS" alt="views" />
