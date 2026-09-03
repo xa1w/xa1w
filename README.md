@@ -53,18 +53,6 @@ const tamas = {
 
 ---
 
-### 📊 stats
-
-<div align="center">
-
-<img height="180" src="https://streak-stats.demolab.com?user=xa1w&theme=tokyonight&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" alt="streak" />
-
-<img src="https://ghchart.rshah.org/8B5CF6/xa1w" alt="contributions" width="100%" />
-
-</div>
-
----
-
 ### 📷 elsewhere
 
 <div align="center">
