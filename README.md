@@ -16,17 +16,15 @@
 ```js
 const tamas = {
   from:     ["🇭🇺 Hungary", "🇫🇷 France", "🇷🇺 Russia"],
-  building: "landesz.dev",          // still cooking 🚧
-  vibe:     "ship it, then make it pretty",
+  building: "x.dev",          // still building 🚧
   hobbies:  ["📷 photography", "🎨 design", "🌀 vibe coding"],
 };
 ```
 
-- 🛠️ I build things for the web — mostly front-end. digital design is kinda my thing
-- 📷 Photography is the other half of my brain
-- 🌐 My site **[landesz.dev](https://landesz.dev)** is still in development (check back soon!)
-- 🏗️ Starting my own web studio — **[atomifys.com](https://atomifys.com)** (major WIP)
-- ⚡ Fun fact: I've delivered a **[TEDx talk on predatory algorithms](https://www.youtube.com/watch?v=Maygx-Y7VcA)** 🎤
+- 🛠️ I build things for the web — mostly front-end. Digital design is kinda my thing
+- 📷 Photography is my other main hobby
+- 🌐 My site **[?.dev](https://?.dev)** is still in development (check back soon!)
+- 🏗️ Starting my own web studio — **[?.com](https://?.com)** (major WIP)
 
 ---
 
