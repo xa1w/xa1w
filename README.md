@@ -4,7 +4,7 @@
 
 **🇷🇺 Russian &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇭🇺 Hungarian &nbsp;·&nbsp; <!--AGE-->16<!--/AGE--> y/o**
 
-<a href="https://landesz.dev"><img src="https://img.shields.io/badge/landesz.dev-in%20development-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="website" /></a>
+
 <img src="https://komarev.com/ghpvc/?username=xa1w&style=for-the-badge&color=8B5CF6&label=VISITORS" alt="views" />
 
 </div>
