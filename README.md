@@ -22,9 +22,8 @@ const tamas = {
 ```
 
 - 🛠️ I build things for the web — mostly front-end. Digital design is kinda my thing
-- 📷 Photography is my other main hobby
-- 🌐 My site **[?.dev](https://?.dev)** is still in development (check back soon!)
-- 🏗️ Starting my own web studio — **[?.com](https://?.com)** (major WIP)
+- 📷 I also enjoy photography & planes
+- 🌐 My site is **[landesz.dev](https://landesz.dev)** 
 
 ---
 
