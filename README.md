@@ -54,9 +54,6 @@ const tamas = {
 
 <div align="center">
 
-<a href="https://landesz.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.youtube.com/watch?v=Maygx-Y7VcA"><img src="https://img.shields.io/badge/TEDx%20Talk-FF0000?style=for-the-badge&logo=ted&logoColor=white" /></a>
 <a href="mailto:tom@landesz.dev"><img src="https://img.shields.io/badge/tom@landesz.dev-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
 
 </div>
