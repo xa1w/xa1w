@@ -1,4 +1,4 @@
-<img src="cat.gif" width="220" alt="a doodle cat" />
+<p align="center"><img src="cat.gif" width="220" alt="a doodle cat" /></p>
 
 ### hey! welcome to my github :)
 
