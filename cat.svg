@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 200" width="220" height="200">
+<style>
+  .l { fill: none; stroke: #2a2a26; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; }
+  .f { fill: #2a2a26; }
+  .c { fill: #1a2ffb; opacity: .25; }
+  @media (prefers-color-scheme: dark) {
+    .l { stroke: #e4dfda; } .f { fill: #e4dfda; }
+  }
+  .paw { transform-origin: 138px 118px; animation: wave 1.6s ease-in-out infinite; }
+  .tail { transform-origin: 72px 168px; animation: swish 3s ease-in-out infinite; }
+  .eyes { transform-origin: 110px 92px; animation: blink 4s infinite; }
+  @keyframes wave { 0%,100% { transform: rotate(0deg); } 25% { transform: rotate(-22deg); } 50% { transform: rotate(6deg); } 75% { transform: rotate(-16deg); } }
+  @keyframes swish { 0%,100% { transform: rotate(0deg); } 50% { transform: rotate(14deg); } }
+  @keyframes blink { 0%,92%,100% { transform: scaleY(1); } 95% { transform: scaleY(.1); } }
+</style>
+<!-- tail -->
+<g class="tail"><path class="l" d="M72 168 C 40 168, 30 140, 46 122 C 56 112, 50 100, 42 98"/></g>
+<!-- body -->
+<path class="l" d="M84 118 C 70 140, 70 170, 80 180 L 140 180 C 150 170, 150 140, 136 118"/>
+<path class="l" d="M98 180 L 98 168 M122 180 L 122 168"/>
+<!-- head -->
+<path class="l" d="M78 76 L 76 40 L 98 58 C 106 56, 114 56, 122 58 L 144 40 L 142 76 C 148 100, 132 116, 110 116 C 88 116, 72 100, 78 76 Z"/>
+<!-- cheeks -->
+<ellipse class="c" cx="90" cy="100" rx="7" ry="4"/>
+<ellipse class="c" cx="130" cy="100" rx="7" ry="4"/>
+<!-- eyes -->
+<g class="eyes"><circle class="f" cx="97" cy="88" r="4"/><circle class="f" cx="123" cy="88" r="4"/></g>
+<!-- nose + mouth -->
+<path class="l" d="M106 98 L 114 98 L 110 102 Z M110 102 C 110 107, 104 108, 102 105 M110 102 C 110 107, 116 108, 118 105" stroke-width="3"/>
+<!-- whiskers -->
+<path class="l" d="M80 96 L 64 93 M80 102 L 65 104 M140 96 L 156 93 M140 102 L 155 104" stroke-width="2.5"/>
+<!-- waving paw -->
+<g class="paw"><path class="l" d="M138 118 C 150 106, 160 88, 162 70 C 163 62, 176 62, 175 72 C 173 90, 162 110, 146 126"/>
+<path class="l" d="M165 66 L 165 62 M171 67 L 172 63" stroke-width="2.5"/></g>
+<!-- motion marks -->
+<path class="l" d="M184 56 C 190 62, 190 72, 186 80 M192 48 C 200 58, 200 76, 194 88" stroke-width="2.5" opacity=".5"/>
+</svg>
