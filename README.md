@@ -1,4 +1,4 @@
-<a href="https://landesz.dev"><img src="https://landesz.dev/og.png" alt="landesz.dev" /></a>
+<img src="cat.svg" width="180" alt="a doodle cat waving" />
 
 ### hey! welcome to my github :)
 
