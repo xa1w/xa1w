@@ -1,63 +1,11 @@
-<div align="center">
+<a href="https://landesz.dev"><img src="https://landesz.dev/og.png" alt="landesz.dev" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Tamas+%F0%9F%91%8B;I+vibe+code+cool+stuff;and+I+take+photos." alt="Tamas Landesz" />
+### hey! welcome to my github :)
 
-**🇷🇺 Russian &nbsp;·&nbsp; 🇫🇷 French &nbsp;·&nbsp; 🇭🇺 Hungarian &nbsp;·&nbsp; <!--AGE-->16<!--/AGE--> y/o**
+<!--AGE-->16<!--/AGE--> · Lyon, FR · hu fr ru en
 
+front-end, design and photography.
 
-<img src="https://komarev.com/ghpvc/?username=xa1w&style=for-the-badge&color=8B5CF6&label=VISITORS" alt="views" />
+[landesz.dev ↗](https://landesz.dev) · [tom@landesz.dev](mailto:tom@landesz.dev) · [TEDx on predatory algorithms ↗](https://www.youtube.com/watch?v=Maygx-Y7VcA)
 
-</div>
-
----
-
-### 🧃 about
-
-```js
-const tamas = {
-  from:     ["🇭🇺 Hungary", "🇫🇷 France", "🇷🇺 Russia"],
-  building: "x.dev",          // still building 🚧
-  hobbies:  ["📷 photography", "🎨 design", "🌀 vibe coding"],
-};
-```
-
-- 🛠️ I build things for the web — mostly front-end. Digital design is kinda my thing
-- 📷 I also enjoy photography & planes
-- 🌐 My site is **[landesz.dev](https://landesz.dev)** 
-
----
-
-### 🧰 stack
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-### 📷 elsewhere
-
-<div align="center">
-
-<a href="mailto:tom@landesz.dev"><img src="https://img.shields.io/badge/tom@landesz.dev-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-
-</div>
-
-<div align="center">
-<sub>📬 <b>open to inquiries</b> — <a href="mailto:tom@landesz.dev">tom@landesz.dev</a></sub>
-</div>
+<sub>html · css · js · react · vite · gsap · tailwind · python · figma</sub>
