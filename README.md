@@ -1,4 +1,4 @@
-<img src="cat.svg" width="180" alt="a doodle cat waving" />
+<img src="cat.gif" width="220" alt="a doodle cat" />
 
 ### hey! welcome to my github :)
 
